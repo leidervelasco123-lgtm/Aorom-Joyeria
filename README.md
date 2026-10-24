@@ -55,4 +55,4 @@ git commit -m "Crear módulo de inventario Aorom Joyería"
 
 ## Artefactos de referencia
 
-Este entregable documenta el supuesto de inventario debido a que no se encontraron artefactos previos en el espacio de trabajo. Antes de presentar la versión final académica, contrasta los campos y operaciones con el diagrama de clases, casos de uso, historias de usuario y prototipos de Aorom Joyería.
+El módulo de inventario de Aorom Joyería permite registrar, consultar, actualizar y eliminar productos. La información se almacena en SQLite mediante una conexión JDBC.
