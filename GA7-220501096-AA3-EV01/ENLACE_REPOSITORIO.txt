@@ -1,0 +1,4 @@
+Repositorio Git local: incluido en esta entrega.
+URL del repositorio remoto: pendiente de publicación.
+
+Para obtener un enlace compartible, publica este proyecto en un repositorio de GitHub, GitLab u otro servicio Git. No se incluye una URL inventada.
